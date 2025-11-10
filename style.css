@@ -97,9 +97,15 @@ button:hover {
 }
 
 .Anıtkabir {
-    position: fixed;
+    position: absolute;
     bottom: -90px;
     right: -50px;
     width: 50%;
 }   
 
+.Bayrak {
+    position: fixed;
+    bottom: 0%;
+    right: 40%;
+    width: 15%;
+}
