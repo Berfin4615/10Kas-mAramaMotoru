@@ -8,6 +8,7 @@ body {
     align-items: center;
     height: 100vh;
     flex-direction: column;
+    overflow: hidden;
 }
 
 .container {
@@ -17,6 +18,7 @@ body {
 .logo {
     width: 272px;
     height: 92px;
+    color: #ffffff;
     margin-bottom: 20px;
 }
 
@@ -93,3 +95,11 @@ button:hover {
     left: 0;
     width: 40%;
 }
+
+.Anıtkabir {
+    position: fixed;
+    bottom: -90px;
+    right: -50px;
+    width: 50%;
+}   
+
