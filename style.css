@@ -86,3 +86,10 @@ button:hover {
         transform: scale(1.5); 
     }
 }
+
+.Atatürk {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 40%;
+}
